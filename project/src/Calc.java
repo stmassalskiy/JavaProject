@@ -1,6 +1,6 @@
 import java.io.IOException;
 import java.util.Scanner;
-
+// Реализация консольного калькулятора через класс Scanner
 public class Calc {
     public static void main(String[] args) throws IOException {
         double result;
